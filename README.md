@@ -53,7 +53,5 @@ The notebook includes:
 - Improve documentation with markdown cells
 - Deploy the model using Flask or Streamlit for user interaction
 
-## 📬 Author
 
-Created as part of a machine learning mini-project on salary prediction.
 
